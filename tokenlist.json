@@ -1,0 +1,19 @@
+{
+  "name": "BNB/USD List",
+  "timestamp": "2026-03-04T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x01191B3d3acd46778536d6Eda3e6B9987Ee2AA1E",
+      "name": "BNB/USD",
+      "symbol": "BNB/USD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/harveyv85/BNB-USD/main/logo.png"
+    }
+  ]
+}
